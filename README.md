@@ -1,1 +1,1 @@
-# # Custome Group Analytics Project
+# # Customer Group Analytics Project
